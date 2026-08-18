@@ -1,0 +1,6 @@
+# raw photo used to generate portrait.svg -- kept locally, never pushed
+# (the repo is public; portrait.svg already has it baked in as ASCII)
+source-photo.jpg
+
+__pycache__/
+*.pyc
