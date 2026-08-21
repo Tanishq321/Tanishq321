@@ -1,17 +1,17 @@
 {
   "username": "Tanishq321",
-  "generated_at": "2026-08-20T03:59:52Z",
+  "generated_at": "2026-08-21T04:03:04Z",
   "range": {
     "start": "2025-08-17",
-    "end": "2026-08-20"
+    "end": "2026-08-21"
   },
   "total_contributions": 131,
   "active_days": 16,
   "avg_per_active_day": 8.2,
   "current_streak": {
-    "length": 2,
-    "start": "2026-08-18",
-    "end": "2026-08-19"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 4,
@@ -1919,6 +1919,11 @@
     },
     {
       "date": "2026-08-20",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-08-21",
       "count": 0,
       "level": 0
     }
