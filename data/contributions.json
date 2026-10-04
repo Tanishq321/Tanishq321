@@ -1,13 +1,13 @@
 {
   "username": "Tanishq321",
-  "generated_at": "2026-10-03T09:11:46Z",
+  "generated_at": "2026-10-04T09:51:08Z",
   "range": {
-    "start": "2025-09-28",
-    "end": "2026-10-03"
+    "start": "2025-10-05",
+    "end": "2026-10-04"
   },
-  "total_contributions": 131,
-  "active_days": 16,
-  "avg_per_active_day": 8.2,
+  "total_contributions": 111,
+  "active_days": 14,
+  "avg_per_active_day": 7.9,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-09",
-      "total": 0
-    },
-    {
       "month": "2025-10",
-      "total": 20
+      "total": 0
     },
     {
       "month": "2025-11",
@@ -81,41 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-03",
-      "count": 8,
-      "level": 3
-    },
-    {
-      "date": "2025-10-04",
-      "count": 12,
-      "level": 4
-    },
     {
       "date": "2025-10-05",
       "count": 0,
@@ -1933,6 +1894,11 @@
     },
     {
       "date": "2026-10-03",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-10-04",
       "count": 0,
       "level": 0
     }
